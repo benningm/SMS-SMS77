@@ -1,0 +1,12 @@
+Package: libsms-sms77-perl
+Version: 0.01-1
+Architecture: amd64
+Maintainer: Markus Benning <werewolf@datenwalze.de>
+Installed-Size: 85
+Depends: libwww-perl
+Section: perl
+Priority: optional
+Description: a perl module for sending sms via sms77.de
+ a perl module for sending sms via sms77.de
+ .
+ This description was automagically extracted from the module by dh-make-perl.

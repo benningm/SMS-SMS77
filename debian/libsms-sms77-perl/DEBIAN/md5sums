@@ -1,0 +1,9 @@
+bb2ab77c235e9de6db70ff96d9ebf8d9  usr/bin/sms77send
+f76c5b30950462d86d04cc7f9a17b572  usr/lib/perl5/auto/SMS/SMS77/.packlist
+12e296de22139bd11f712d0aedc0f612  usr/share/doc/libsms-sms77-perl/changelog.Debian.gz
+ff97a4169b432ad17a28ebadb59fd211  usr/share/doc/libsms-sms77-perl/copyright
+90ebddcea3a4c4ab7b50e0cae46c5f01  usr/share/man/man1/sms77send.1p.gz
+a24d5ae5dc51ecd20c26b4d0698660d4  usr/share/man/man3/SMS::SMS77.3pm.gz
+5b422a26cd53fd8d6af54167f4fb5461  usr/share/man/man3/SMS::SMS77::Message.3pm.gz
+1b030d3b05acd99f3e20dea027e56b08  usr/share/perl5/SMS/SMS77.pm
+062354fd0e7804887bda29df3aa8329e  usr/share/perl5/SMS/SMS77/Message.pm
